@@ -1,0 +1,19 @@
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding: 10px;
+}
+
+.btn {
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+    transition: background 0.5s ease;
+}
+.btn:hover{
+    background: gray;
+    color: white;
+}

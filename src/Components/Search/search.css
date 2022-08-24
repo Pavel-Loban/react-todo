@@ -1,0 +1,11 @@
+.search {
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+.search-input{
+    background: rgb(0, 255, 255);
+    height: 20px;
+    width: 300px;
+}
